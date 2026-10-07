@@ -1,0 +1,7 @@
+{
+  "name": "token-bar",
+  "version": "0.1.0",
+  "description": "Live bar above the prompt showing context-window token consumption and session cost",
+  "author": { "name": "Emad Samir" },
+  "types": "./types/index.d.ts"
+}

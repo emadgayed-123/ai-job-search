@@ -1,0 +1,6 @@
+{
+  "name": "ai-job-search-mods",
+  "description": "Claude Code mods used alongside the AI job search workspace",
+  "owner": { "name": "Emad Samir" },
+  "plugins": [{ "name": "token-bar", "source": "./mods/token-bar" }]
+}
