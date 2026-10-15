@@ -70,3 +70,9 @@ upskill/*.md
 .agents/**/node_modules/
 .agents/**/*.log
 .agents/usage/
+
+# Archify: keep each diagram's candidate.json and .html; ignore check receipts and capture evidence.
+.archify/**/review-*/
+.archify/**/visual-check/
+.archify/**/*.json
+!.archify/**/candidate.json
